@@ -65,12 +65,12 @@ html{
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.7) url("..//Image/pexels-icsa-1709003.jpg");
+    background: rgba(0, 0, 0, 0.7) url("Image/pexels-icsa-1709003.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
 .background_TICKET{
-    background: rgba(0, 0, 0, 0.7) url("..//Image/andy-li-A_dJOYpxEVU-unsplash.jpg");
+    background: rgba(0, 0, 0, 0.7) url("Image/andy-li-A_dJOYpxEVU-unsplash.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
