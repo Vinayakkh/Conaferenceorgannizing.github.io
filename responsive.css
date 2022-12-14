@@ -45,4 +45,7 @@
 .imgbox{
     height: auto;
 }
+    .speaker{
+        flex-wrap:wrap;
+        height:auto;
 }
